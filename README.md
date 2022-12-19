@@ -3,12 +3,12 @@ A curated list of awesome community written frameworks, libraries and software d
 
 # Gate
 
-_Projects using the [Gate proxy](https://gate.minekube.com/)._
+_Projects using [Gate](https://gate.minekube.com/)._
 
-- example - Example description
+- [EmortalMC/GateProxy](https://github.com/EmortalMC/GateProxy) - The extended Gate proxy used by the EmortalMC minigames network. 
 
 # Connect
 
 _Projects using [Connect](https://connect.minekube.com/)._
 
-- example - Example description
+- example - Add your server or project here
