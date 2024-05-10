@@ -11,6 +11,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [Git-Fal7/friend-for-gate](https://github.com/Git-Fal7/friend-for-gate) - A friend system for the gate proxy.
 - [csmc/proxy](https://github.com/community-sourced-minecraft/proxy) - A proxy server for a Community Sourced Minecraft Server
 - [dilllxd/dylanpufferpaneltemplates](https://github.com/dilllxd/dylanpufferpaneltemplates/tree/main/minecraft/gate) - A PufferPanel template designed to make running Gate as easy as possible, including easy version control and Gate Lite support!
+- [Git-Fal7/gate-simplecommand](https://github.com/Git-Fal7/gate-simplecommand) -  Port of SimpleCommand from velocity.
 
 # Connect
 
