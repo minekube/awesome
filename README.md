@@ -12,6 +12,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [csmc/proxy](https://github.com/community-sourced-minecraft/proxy) - A proxy server for a Community Sourced Minecraft Server
 - [dilllxd/dylanpufferpaneltemplates](https://github.com/dilllxd/dylanpufferpaneltemplates/tree/main/minecraft/gate) - A PufferPanel template designed to make running Gate as easy as possible, including easy version control and Gate Lite support!
 - [Git-Fal7/gate-simplecommand](https://github.com/Git-Fal7/gate-simplecommand) -  Port of SimpleCommand from velocity.
+- [dilllxd/hostredirect](https://github.com/dilllxd/hostredirect) - Host Redirect is a plugin for the Gate proxy that allows you to redirect users based on the host they connect to.
 
 # Connect
 
