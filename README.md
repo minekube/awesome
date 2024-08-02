@@ -13,6 +13,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [dilllxd/dylanpufferpaneltemplates](https://github.com/dilllxd/dylanpufferpaneltemplates/tree/main/minecraft/gate) - A PufferPanel template designed to make running Gate as easy as possible, including easy version control and Gate Lite support!
 - [Git-Fal7/gate-simplecommand](https://github.com/Git-Fal7/gate-simplecommand) -  Port of SimpleCommand from velocity.
 - [dilllxd/hostredirect](https://github.com/dilllxd/hostredirect) - Host Redirect is a plugin for the Gate proxy that allows you to redirect users based on the host they connect to.
+- [dilllxd/dynamicserverapi](https://github.com/dilllxd/dynamicserverapi) - DynamicServerAPI is a plugin for the Gate proxy that allows you to add/remove and list servers on your proxy through a REST API.
 
 # Connect
 
