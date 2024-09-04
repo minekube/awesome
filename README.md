@@ -1,4 +1,5 @@
 # awesome-minekube
+
 A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
 
 # Gate
@@ -11,9 +12,10 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [Git-Fal7/friend-for-gate](https://github.com/Git-Fal7/friend-for-gate) - A friend system for the gate proxy.
 - [csmc/proxy](https://github.com/community-sourced-minecraft/proxy) - A proxy server for a Community Sourced Minecraft Server
 - [dilllxd/dylanpufferpaneltemplates](https://github.com/dilllxd/dylanpufferpaneltemplates/tree/main/minecraft/gate) - A PufferPanel template designed to make running Gate as easy as possible, including easy version control and Gate Lite support!
-- [Git-Fal7/gate-simplecommand](https://github.com/Git-Fal7/gate-simplecommand) -  Port of SimpleCommand from velocity.
+- [Git-Fal7/gate-simplecommand](https://github.com/Git-Fal7/gate-simplecommand) - Port of SimpleCommand from velocity.
 - [dilllxd/hostredirect](https://github.com/dilllxd/hostredirect) - Host Redirect is a plugin for the Gate proxy that allows you to redirect users based on the host they connect to.
 - [dilllxd/dynamicserverapi](https://github.com/dilllxd/dynamicserverapi) - DynamicServerAPI is a plugin for the Gate proxy that allows you to add/remove and list servers on your proxy through a REST API.
+- [InvalidJoker/MiniCloud](https://github.com/InvalidJoker/MiniCloud) - A simple cloud system that uses Gate as the main backend.
 
 # Connect
 
