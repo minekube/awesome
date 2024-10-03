@@ -16,6 +16,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [dilllxd/hostredirect](https://github.com/dilllxd/hostredirect) - Host Redirect is a plugin for the Gate proxy that allows you to redirect users based on the host they connect to.
 - [dilllxd/dynamicserverapi](https://github.com/dilllxd/dynamicserverapi) - DynamicServerAPI is a plugin for the Gate proxy that allows you to add/remove and list servers on your proxy through a REST API.
 - [InvalidJoker/MiniCloud](https://github.com/InvalidJoker/MiniCloud) - A simple cloud system that uses Gate as the main backend.
+- [community-sourced-minecraft/proxy](https://github.com/community-sourced-minecraft/proxy) - A games hosting proxy
 
 # Connect
 
