@@ -17,6 +17,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [dilllxd/dynamicserverapi](https://github.com/dilllxd/dynamicserverapi) - DynamicServerAPI is a plugin for the Gate proxy that allows you to add/remove and list servers on your proxy through a REST API.
 - [InvalidJoker/MiniCloud](https://github.com/InvalidJoker/MiniCloud) - A simple cloud system that uses Gate as the main backend.
 - [community-sourced-minecraft/proxy](https://github.com/community-sourced-minecraft/proxy) - A games hosting proxy
+- [TheDevMinerTV/minimsg](https://github.com/TheDevMinerTV/minimsg) - Mini message format library
 
 # Connect
 
