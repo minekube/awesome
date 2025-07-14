@@ -19,6 +19,7 @@ _Projects using [Gate](https://gate.minekube.com/)._
 - [community-sourced-minecraft/proxy](https://github.com/community-sourced-minecraft/proxy) - A games hosting proxy
 - [TheDevMinerTV/minimsg](https://github.com/TheDevMinerTV/minimsg) - Mini message format library
 - [kasefuchs/lazygate](https://github.com/kasefuchs/lazygate) - LazyGate is a Gate proxy plugin that shuts down your Minecraft server when it's idle and wakes it up when players connect.
+- [o7studios/minimessage-go](https://github.com/o7studios/minimessage-go) Kyori MiniMessage formatting libray (limited in some features)
 
 # Connect
 
